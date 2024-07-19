@@ -1,6 +1,6 @@
 # AndrewMuench
 
-Hello, I'm Andrew. Data Analyst with expertise in data analysis and reporting, database design, and data modelling.
+Hello, I'm Andrew. Data Analyst with expertise in data analysis and reporting, database design, and machine learning methods.
 
 
 Generate reports and perform ad-hoc data analysis using Pythion and R.
